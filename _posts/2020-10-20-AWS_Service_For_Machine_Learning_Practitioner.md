@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS Service Summary
+title: AWS Service for Machine Learning Practitioner
 description: A short summary of AWS services used widely by data scientists.
 date: 2020-10-20
 tags: data science, machine learning, AWS, software engineering

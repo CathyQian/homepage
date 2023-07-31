@@ -4,13 +4,19 @@ title: Readings
 permalink: /readings/
 ---
 
+2021-04 **April Readings**
+12, [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change, by Camille Fournier](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
+
+[<img align="center" src="/assets/The-Manager-Path.jpg" width="200"/>](/assets/The-Manager-Path.jpg)
+
 2021-03 **March Readings**
 
-10, [The 360 Degree Leader: Developing Your Influence from Anywhere in the Organization, by John C. Maxwell](https://www.goodreads.com/book/show/183396.The_360_Degree_Leader?ac=1&from_search=true&qid=tSm2G8hWcU&rank=1)
+11, [The 360 Degree Leader: Developing Your Influence from Anywhere in the Organization, by John C. Maxwell](https://www.goodreads.com/book/show/183396.The_360_Degree_Leader?ac=1&from_search=true&qid=tSm2G8hWcU&rank=1)
 
 [<img align="center" src="/assets/The-360-Degree-Leader.jpg" width="200"/>](/assets/The-360-Degree-Leader.jpg)
 
-2021-02 **March Readings**
+
+2021-02 **February Readings**
 
 10, [Mindset: The New Psychology of Success, by Carol S. Dweck](https://www.goodreads.com/book/show/40745.Mindset)
 

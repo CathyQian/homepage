@@ -6,15 +6,11 @@ permalink: /about/
 
 [<img align="center" src="/assets/CathyQian.jpg" width="200"/>](/assets/CathyQian.jpg)
 
-I am a data scientist and machine learning engineer with over a decade of experience in various fields, including eCommerce, travel industry and optical materials R&D. I have years hands-on experience working on the full life cycle of machine learning models at scale, from business problem definition and refinement, to data wrangling and analysis, to feature engineering and model development, and model deployment and monitoring in production. 
+I hold a STEM Ph.D. from the Univeristy of Pennsylvania by training and have done 10 years of cutting-edge fundamental research before transitioning to the tech industry. Please feel free to explore my legacy website [here](https://sites.google.com/site/zhaoxiaq/home/) for more information about my research projects and publications in academia.
 
-I currently work at Expedia Group, focusing in building end-to-end machine learning models to solve travel-related problems including car rental, hotel and flight bookings.
+I have spent the past five years mainly working as a Senior Machine Learning Engineer at Twitter and a Machine Learning Scientist at Expedia. My skills encompass the entire spectrum of machine learning pipelines, from data extraction and preparation to exploratory analysis, feature engineering, model training and deployment, as well as online experimentation and monitoring. I specialize in search and ads ranking.
 
-Previously, I was a machine learning engineer building applications using deep learning models for image classification and sentimental analysis.
-
-I completed my PhD in Chemistry from the University of Pennsylvania. My PhD thesis focused on the synthesis and investigation of plasmonic nanomaterials with enhanced optical properties. I also hold a B.S. degree in Physical Chemistry from University of Science and Technology of China. Please refer to my legacy website [here](https://sites.google.com/site/zhaoxiaq/home/).
-
-Here are a couple of top things I want to do in the coming years:
-- write a book
-- join an inspiring startup company
-- travel around the world
+Here are a couple of things I desire to do in the next five years:
+- write a couple of technical books, sharing my knowledge and experiences with the broader community
+- travel to a couple of Asian and European countries with my family, to create lasting memories
+- join a company to work on products that bring people closer through technology
