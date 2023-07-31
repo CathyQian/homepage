@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating the Job Market During An Economic Downturn: A Personal Journey
+title: Navigating the Job Market During An Economic Downturn -- A Personal Journey
 description: Sharing my job hunting experince in the past three months after impacted by a Twitter layoff
 date: 2023-07-31
 tags: job hunting, economic downturn, layoff
