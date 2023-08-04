@@ -4,6 +4,12 @@ title: Archieves
 permalink: /archieves/
 ---
 
+35. [2023-08-04 Conquer the Coding Interview In Python Effectively -- From Zero to Mastery](/_posts/2023-08-04-Conquer_the_Coding_Interview_In_Python_Effectively.md)
+
+34. [2023-08-01 My Two Cents on Salary Negotiation](/_posts/2023-08-01-My_Two_Cents_on_Salary_Negotiation.md)
+
+33. [2023-07-31 Navigating the Job Market During An Economic Downturn -- A Personal Journey](/_posts/2023-07-31-Navigating_the_Job_Market_During_An_Economic_Downturn.md)
+
 32. [2021-04-25 Retrospect On My Mentoring Experience](/_posts/2021-04-25-Retrospect_On_My_Mentoring_Experience.md)
 
 31. [2021-02-09 Happy Lunar New Year](/_posts/2021-02-09-Happy_Lunar_New_Year.md)

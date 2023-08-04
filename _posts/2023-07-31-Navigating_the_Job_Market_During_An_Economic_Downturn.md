@@ -4,7 +4,7 @@ title: Navigating the Job Market During An Economic Downturn -- A Personal Journ
 description: Sharing my job hunting experince in the past three months after impacted by a Twitter layoff
 date: 2023-07-31
 tags: job hunting, economic downturn, layoff
-comments_id: 26
+comments_id: 33
 ---
 
 Life has taken a challenging turn for many individuals over the past year, and I am no exception. About a year ago, I was content with my role at Twitter, contributing to a machine learning model that was bringing approximately $300 million ads revenue and had a very clear career path to the next level. However, a sudden and unexpected turn of events involving Elon Musk's attempted acquisition of Twitter led to significant changes in the company. He has officially become the sole owner of Twitter on October 28, 2022 and laid off about 50% of all Twitter employees a week after. The whole company was immersed in absolute silence and fear, and almost everyone was looking for an exit.

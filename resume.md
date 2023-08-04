@@ -10,12 +10,12 @@ permalink: /resume/
 
 **Technical expertise**:
 - software engineering
-- data science and machine learning
-- R&D
+- machine learning
+- research and development
 
 **Domain expertise**:
+- AdTech
 - eCommerce
 - travel industry
-- colloidal chemistry and optical materials
 
-Please see my resume [**here**](/assets/Resume_CathyQian_Sep2020.pdf). Last updated in September 2020.
+Please feel free to email me for a copy of my resume.

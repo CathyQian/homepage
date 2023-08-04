@@ -5,6 +5,7 @@ permalink: /readings/
 ---
 
 2021-04 **April Readings**
+
 12, [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change, by Camille Fournier](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 
 [<img align="center" src="/assets/The-Manager-Path.jpg" width="200"/>](/assets/The-Manager-Path.jpg)
